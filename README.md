@@ -14,9 +14,9 @@ It reflects my interest in front-end development and clean UI design.
 - Resume access  
 
 ## Tech Stack
-- HTML  
+- Vite 
 - CSS  
-- JavaScript  
+- React JS  
 
 ## Deployment
 This portfolio is hosted using GitHub Pages.
