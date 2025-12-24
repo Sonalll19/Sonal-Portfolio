@@ -22,7 +22,7 @@ It reflects my interest in front-end development and clean UI design.
 This portfolio is hosted using GitHub Pages.
 
 ## **🌐 Live Website**
-https://sonal119.github.io/Sonal-Portfolio/
+https://Sonalll19.github.io/Sonal-Portfolio/
 
 ## Goal
 The main goal of this project is to create a professional online presence and continuously improve it as I learn new technologies.
